@@ -5,15 +5,15 @@
   <channel>
     <title><![CDATA[Bevis哥]]></title>
     <link>http://BevisGor.github.io/</link>
-    <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
     <description></description>
     <pubDate>Thu, 31 Dec 2015 10:58:41 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title><![CDATA[Hello World]]></title>
-      <link>http://BevisGor.github.io/post/cijmr3ca90000dsbcajh47au3.html</link>
-      <guid>http://BevisGor.github.io/post/cijmr3ca90000dsbcajh47au3.html</guid>
+      <link>http://BevisGor.github.io/post/cijmr6wv80000eybc0l6fm9cd.html</link>
+      <guid>http://BevisGor.github.io/post/cijmr6wv80000eybc0l6fm9cd.html</guid>
       <pubDate>Wed, 20 Jan 2016 10:46:28 GMT</pubDate>
       <description>
       <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
@@ -28,7 +28,7 @@
 <h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content:encoded>
-      <comments>http://BevisGor.github.io/post/cijmr3ca90000dsbcajh47au3.html#disqus_thread</comments>
+      <comments>http://BevisGor.github.io/post/cijmr6wv80000eybc0l6fm9cd.html#disqus_thread</comments>
     </item>
     
   </channel>
