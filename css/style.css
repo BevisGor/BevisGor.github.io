@@ -871,6 +871,10 @@ header nav ul li a:hover {
 .all-list-box {
   min-height: 400px;
 }
+a img {
+  display: block;
+  margin: 0 auto;
+}
 .post,
 .page,
 .link,
