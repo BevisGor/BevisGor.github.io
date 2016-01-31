@@ -12,8 +12,8 @@
     
     <item>
       <title><![CDATA[Hello World]]></title>
-      <link>http://BevisGor.github.io/post/cik2bwzn10001hfbcta8wvlzr.html</link>
-      <guid>http://BevisGor.github.io/post/cik2bwzn10001hfbcta8wvlzr.html</guid>
+      <link>http://BevisGor.github.io/post/cik2dlda60000ibbcsfzjqeuu.html</link>
+      <guid>http://BevisGor.github.io/post/cik2dlda60000ibbcsfzjqeuu.html</guid>
       <pubDate>Sun, 31 Jan 2016 05:09:33 GMT</pubDate>
       <description>
       <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
@@ -28,14 +28,14 @@
 <h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content:encoded>
-      <comments>http://BevisGor.github.io/post/cik2bwzn10001hfbcta8wvlzr.html#disqus_thread</comments>
+      <comments>http://BevisGor.github.io/post/cik2dlda60000ibbcsfzjqeuu.html#disqus_thread</comments>
     </item>
     
     <item>
       <title><![CDATA[教你用浏览器下载 Torrent 资源]]></title>
-      <link>http://BevisGor.github.io/post/cik2bwzll0000hfbccjyfmch6.html</link>
-      <guid>http://BevisGor.github.io/post/cik2bwzll0000hfbccjyfmch6.html</guid>
-      <pubDate>Tue, 19 Jan 2016 22:47:31 GMT</pubDate>
+      <link>http://BevisGor.github.io/post/cik2dldbm0001ibbcccwmhhjm.html</link>
+      <guid>http://BevisGor.github.io/post/cik2dldbm0001ibbcccwmhhjm.html</guid>
+      <pubDate>Sat, 30 Jan 2016 22:00:00 GMT</pubDate>
       <description>
       <![CDATA[<p>这篇文章主要介绍如何利用离线下载服务来实现直接下载Torrent。</p>
 <h2 id="u4EC0_u4E48_u662F_Torrent__uFF1F"><a href="#u4EC0_u4E48_u662F_Torrent__uFF1F" class="header]]>
@@ -55,11 +55,12 @@
 </li>
 <li><p>等几秒钟（或更长，以资源的热度而定），直到显示 <strong><em>Caching complete</em></strong> 就是说 Zbigz 已经把文件下载好了，现在轮到我们下载了。<br>按 <strong><em>.zip</em></strong> 按钮（红框处）以<code>zip</code>格式下载所有文件；如果只要其中一个文件则可以选择相应的按钮进行下载。<br><img src="http://i.imgur.com/lb66xg5.png" alt=""><br><img src="http://i.imgur.com/WMb5nE3.png" alt=""></p>
 </li>
+<li><p>如果遇到较冷门的 Torrent 服务器需要较长的时间来下载，所以建议各位先注册个账号，这样任务才能保存在你的账号里。<br><img src="http://i.imgur.com/VZoXeE4.png" alt=""><br>此外 Zbigz 支持多线程下载，可用 IDM 之类的下载器下载但对免费用户限速最高只有150 KB/s，想要得到满速唯有成为付费用户（马币<strong>5令吉</strong>一天，GST另计。不便宜呀，呵呵）。</p>
+</li>
 </ol>
-<p>5.如果遇到较冷门的 Torrent 服务器需要较长的时间来下载，所以建议各位先注册个账号，这样任务才能保存在你的账号里。<br>此外 Zbigz 支持多线程下载，可用 IDM 之类的下载器下载但对免费用户限速最高只有150 KB/s，想要得到满速唯有成为付费用户（马币<strong>5令吉</strong>一天，GST另计。真不是一般的“便宜”啊，呵呵）<br><img src="http://i.imgur.com/VZoXeE4.png" alt=""></p>
 <p>好了，教程就到此结束！<br>不明白的话可以在下面留言。</p>
 ]]></content:encoded>
-      <comments>http://BevisGor.github.io/post/cik2bwzll0000hfbccjyfmch6.html#disqus_thread</comments>
+      <comments>http://BevisGor.github.io/post/cik2dldbm0001ibbcccwmhhjm.html#disqus_thread</comments>
     </item>
     
   </channel>
