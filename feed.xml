@@ -12,8 +12,8 @@
     
     <item>
       <title><![CDATA[Hello World]]></title>
-      <link>http://BevisGor.github.io/post/cik293pdw0001fcbckv1ni2co.html</link>
-      <guid>http://BevisGor.github.io/post/cik293pdw0001fcbckv1ni2co.html</guid>
+      <link>http://BevisGor.github.io/post/cik29tahl0001g8bcbf6kbupb.html</link>
+      <guid>http://BevisGor.github.io/post/cik29tahl0001g8bcbf6kbupb.html</guid>
       <pubDate>Sun, 31 Jan 2016 05:09:33 GMT</pubDate>
       <description>
       <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
@@ -28,19 +28,37 @@
 <h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
 ]]></content:encoded>
-      <comments>http://BevisGor.github.io/post/cik293pdw0001fcbckv1ni2co.html#disqus_thread</comments>
+      <comments>http://BevisGor.github.io/post/cik29tahl0001g8bcbf6kbupb.html#disqus_thread</comments>
     </item>
     
     <item>
-      <title><![CDATA[Cloud-Torrent]]></title>
-      <link>http://BevisGor.github.io/post/cik293pcg0000fcbcgk2gjbf5.html</link>
-      <guid>http://BevisGor.github.io/post/cik293pcg0000fcbcgk2gjbf5.html</guid>
+      <title><![CDATA[教你用浏览器下载 Torrent 资源]]></title>
+      <link>http://BevisGor.github.io/post/cik29tag30000g8bcu7v8fg5b.html</link>
+      <guid>http://BevisGor.github.io/post/cik29tag30000g8bcu7v8fg5b.html</guid>
       <pubDate>Tue, 19 Jan 2016 22:47:31 GMT</pubDate>
       <description>
-      
+      <![CDATA[<h1 id="u6559_u4F60_u7528_u6D4F_u89C8_u5668_u4E0B_u8F7D_Torrent__u8D44_u6E90"><a href="#u6559_u4F60_u7528_u6D4F_u89C8_u5668_u4E0B_u8F7D_Torr]]>
       </description>
-      <content:encoded></content:encoded>
-      <comments>http://BevisGor.github.io/post/cik293pcg0000fcbcgk2gjbf5.html#disqus_thread</comments>
+      <content:encoded><![CDATA[<h1 id="u6559_u4F60_u7528_u6D4F_u89C8_u5668_u4E0B_u8F7D_Torrent__u8D44_u6E90"><a href="#u6559_u4F60_u7528_u6D4F_u89C8_u5668_u4E0B_u8F7D_Torrent__u8D44_u6E90" class="headerlink" title="教你用浏览器下载 Torrent 资源"></a>教你用浏览器下载 Torrent 资源</h1><p>这篇文章主要介绍如何利用离线下载服务来实现直接下载Torrent。</p>
+<h2 id="u4EC0_u4E48_u662F_Torrent__uFF1F"><a href="#u4EC0_u4E48_u662F_Torrent__uFF1F" class="headerlink" title="什么是 Torrent ？"></a>什么是 Torrent ？</h2><p>BitTorrent协议（简称 BT / Torrent）是用在对等网络中文件分享的网络协议程序。它是用户群对用户群 P2P（peer-to-peer），而且用户越多，下载同一文件的人越多，且下载后，继续维持上传的状态，就可以“分享”，成为其用户端节点下载的种子文件（.torrent），下载该档案的速度越快。</p>
+<p><img src="http://i.imgur.com/EYJYSvu.png" alt="BitTorrent 原理"></p>
+<p>.torrent（种子）文件本质上是文本文件，只记载了你要下载文件的存放位置、大小、下载服务器的地址、发布者的地址等数据的一个索引文件，所以 Torrent 文件本身并不是你想下载的内容。要下载Torrent里的内容，需要使用BT下载器进行下载。</p>
+<h2 id="u79BB_u7EBF_u4E0B_u8F7D"><a href="#u79BB_u7EBF_u4E0B_u8F7D" class="headerlink" title="离线下载"></a>离线下载</h2><p>离线下载也称脱机下载，原理就是先将你要下载的Torrent（BT种子）交给服务器，系统会用高速带宽帮你下载到服务器上，然后再从服务器上取回到你文件，继而可以把文件高速取回到本地电脑。如果网络不是很好或者Torrent资源冷门，离线下载可以节省不少时间。</p>
+<p><img src="http://i.imgur.com/UmnZfZJ.png" alt=""></p>
+<h2 id="u6559_u7A0B_uFF1A"><a href="#u6559_u7A0B_uFF1A" class="headerlink" title="教程："></a>教程：</h2><ol>
+<li><p>首先到各大BT网站（不懂的在这里随便选一个：<a href="https://kat.cr/" target="_blank" rel="external">KickassTorrent</a>，<a href="https://thepiratebay.se/" target="_blank" rel="external">TPB</a>，<a href="http://extratorrent.cc/" target="_blank" rel="external">ExtraTorrent</a>）找你要下载的Torrent资源（例如：电影，电视剧，软件，音乐，游戏等等）。</p>
+</li>
+<li><p>这里以Kickass为例，其他的网站都大同小异，自己摸索吧。找到你要的资源后可以选择复制 Magnet Link 或下载Torrent （如下图）。<br><img src="http://i.imgur.com/NosSGuq.png" alt=""></p>
+</li>
+<li><p>打开支持离线下载Torrent服务的Zbigz（<a href="https://www.zbigz.com/" target="_blank" rel="external">www.zbigz.com</a>），把刚才复制的Magnet Link 贴到输入栏内（如下图），然后按下 <strong><code>Enter</code></strong>（别问我为么不按<strong><em>Go!</em></strong>，按了你就知道 :P）。<br><img src="http://i.imgur.com/VOYxN4I.png" alt=""></p>
+</li>
+<li><p>等几秒钟（或更长，以资源的热度而定），直到显示 <strong><em>Caching complete</em></strong> 就是说Zbigz已经把文件下载好了，现在轮到我们下载了。<br>按 <strong><em>.zip</em></strong> 按钮（红框处）以<code>zip</code>格式下载所有文件；如果只要其中一个文件则可以选择相应的按钮进行下载。<br><img src="http://i.imgur.com/lb66xg5.png" alt=""><br><img src="http://i.imgur.com/WMb5nE3.png" alt=""></p>
+</li>
+</ol>
+<p>5.如果遇到较冷门的Torrent服务器需要较长的时间来下载，所以建议各位先注册个账号，这样任务才能保存在你的账号里。此外 Zbigz 支持多线程下载但对免费用户限速最高只有150 KB/s，想要得到满速唯有成为付费用户（<strong>一</strong>天马币<strong>5令吉</strong>，GST另计。真不是一般的“便宜”啊，呵呵）<br><img src="http://i.imgur.com/VZoXeE4.png" alt=""></p>
+<p>好了，教程就到此结束！<br>不明白的话可以在下面留言。</p>
+]]></content:encoded>
+      <comments>http://BevisGor.github.io/post/cik29tag30000g8bcu7v8fg5b.html#disqus_thread</comments>
     </item>
     
   </channel>
